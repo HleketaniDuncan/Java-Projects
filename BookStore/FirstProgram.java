@@ -1,4 +1,4 @@
-public class FirstProgram {
+public class BookStoreClass {
 
     private static String bookNAME,bookAuthor;
     private int bookYear;
